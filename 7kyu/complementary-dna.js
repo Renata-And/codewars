@@ -1,4 +1,4 @@
-// DESCRIPTION
+// ❔DESCRIPTION
 
 // Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
 
@@ -13,7 +13,7 @@
 // "ATTGC" --> "TAACG"
 // "GTAT" --> "CATA"
 
-// SOLUTION
+// ☑️ SOLUTION
 
 function dnaStrand(dna) {
   const replacements = { A: 'T', C: 'G', T: 'A', G: 'C' };
