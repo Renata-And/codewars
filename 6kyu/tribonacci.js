@@ -33,4 +33,6 @@ function tribonacci(signature, n) {
   return array;
 }
 
-console.log('tribonacci: ', tribonacci([0, 0, 1]));
+const signature = [0, 1, 1];
+
+console.log('tribonacci: ', tribonacci(signature, 5));
